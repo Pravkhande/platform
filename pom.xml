@@ -4,7 +4,7 @@
 
   <groupId>rean</groupId>
   <artifactId>platform</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
 
   <name>Maven</name>
   <url>http://maven.apache.org/</url>
